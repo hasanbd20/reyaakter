@@ -19,8 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://reyaakter.42web.io/` + encodeURI(path as string)
-				}`,
+					`https://www.highcpmrevenuegate.com/zyc270s38?key=7ce31511962242d45c76babab613af14/`
 			},
 		};
 		}
